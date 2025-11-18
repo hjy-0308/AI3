@@ -70,9 +70,21 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     
      labels[0]: {
-       "texts": ["짬뽕의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
-       "images": [""],
-       "videos": ["https://youtu.be/XXXXXXXXXXX"],
+       "texts": ["5인조", "걸그룹퍼포먼스끝판왕", "ANTIFRAGILE_EASY_UNFORGIVEN"],
+       "images": ["https://www.google.com/imgres?q=%EB%A5%B4%EC%84%B8%EB%9D%BC%ED%95%8C&imgurl=https%3A%2F%2Fflexible.img.hani.co.kr%2Fflexible%2Fnormal%2F970%2F647%2Fimgdb%2Foriginal%2F2022%2F0502%2F20220502503242.jpg&imgrefurl=https%3A%2F%2Fwww.hani.co.kr%2Farti%2Fculture%2Fmusic%2F1041282.html&docid=beoKjbj3QHqe6M&tbnid=e2YccgLdXT859M&vet=12ahUKEwjoqb2w9_qQAxVYrlYBHVs5B3oQM3oECCgQAA..i&w=970&h=647&hcb=2&ved=2ahUKEwjoqb2w9_qQAxVYrlYBHVs5B3oQM3oECCgQAA"],
+       "videos": ["https://www.youtube.com/watch?v=IE8axogLC1o"],
+     },
+
+     labels[1]: {
+       "texts": ["6인조", "완성형걸그룹", "ELEVEN_LOVEDIVE_AfterLIKE"],
+       "images": ["https://www.google.com/imgres?q=%EC%95%84%EC%9D%B4%EB%B8%8C&imgurl=https%3A%2F%2Ftalkimg.imbc.com%2FTVianUpload%2Ftvian%2FTViews%2Fimage%2F2025%2F02%2F14%2F91d34e38-08f1-489e-b8c6-2c35571762d8.jpg&imgrefurl=https%3A%2F%2Fenews.imbc.com%2FNews%2FRetrieveNewsInfo%2F448942&docid=LjKsCxI_dpTnkM&tbnid=50_yPIEUCS2cSM&vet=12ahUKEwjj1v_B9_qQAxV6s1YBHfnOFmAQM3oECBIQAA..i&w=3343&h=4457&hcb=2&ved=2ahUKEwjj1v_B9_qQAxV6s1YBHfnOFmAQM3oECBIQAA"],
+       "videos": ["https://www.youtube.com/watch?v=YljCzUUlPGE"],
+     },
+
+     labels[2]: {
+       "texts": ["4인", "걸그룹음원최강자", "NextLevel_Supernova "],
+       "images": ["https://www.google.com/imgres?q=%EC%97%90%EC%8A%A4%ED%8C%8C&imgurl=https%3A%2F%2Fi.namu.wiki%2Fi%2F3eW3fujmSOAUW3Ilcs9gsFq2kVdogoiDnAjncJibP36j7tS9ta2M1JIJ8Z7ZnpZde6Oll8TxDbE2zljLgz_gCQ.gif&imgrefurl=https%3A%2F%2Fnamu.wiki%2Fw%2Faespa&docid=FJ6fY7es_zLCYM&tbnid=vREoQ8qGitnUDM&vet=12ahUKEwialuju9_qQAxUOslYBHX32KfcQM3oECBUQAA..i&w=1270&h=710&hcb=2&ved=2ahUKEwialuju9_qQAxUOslYBHX32KfcQM3oECBUQAA"],
+       "videos": ["https://www.youtube.com/watch?v=z5ZnLP07Ex0"],
      },
 }
 
